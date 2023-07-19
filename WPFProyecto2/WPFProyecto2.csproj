@@ -16,8 +16,4 @@
     <Folder Include="Fonts\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Resource Include="img_home.png" />
-  </ItemGroup>
-
 </Project>
